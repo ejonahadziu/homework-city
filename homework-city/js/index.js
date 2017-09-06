@@ -41,7 +41,4 @@ $(document).ready(function() {
 		$('#city-type').val('');
 	}
 
-	// Remove extra spaces or new lines that users or the browser might add before or after their input
-	// Reset the user input field after it is submitted
-
 });
